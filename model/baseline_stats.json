@@ -1,0 +1,59 @@
+{
+  "feature_means": {
+    "product_price": 83.8595,
+    "customer_purchase_history": 19.80575,
+    "review_rating": 3.2639500000000004,
+    "delivery_time_days": 2.6625,
+    "discount_percentage": 15.0215,
+    "previous_returns": 1.90675,
+    "days_since_purchase": 4.15125,
+    "category_encoded": 1.98225,
+    "size_encoded": 1.556
+  },
+  "feature_stds": {
+    "product_price": 80.91617648316165,
+    "customer_purchase_history": 22.82031350824641,
+    "review_rating": 1.6063796286612466,
+    "delivery_time_days": 2.1589949200417755,
+    "discount_percentage": 20.140815546117185,
+    "previous_returns": 2.8361180033334663,
+    "days_since_purchase": 6.241042468231774,
+    "category_encoded": 1.4275659086731867,
+    "size_encoded": 1.405652149178851
+  },
+  "feature_mins": {
+    "product_price": 10.0,
+    "customer_purchase_history": 0.0,
+    "review_rating": 1.0,
+    "delivery_time_days": 1.0,
+    "discount_percentage": 0.0,
+    "previous_returns": 0.0,
+    "days_since_purchase": 1.0,
+    "category_encoded": 0.0,
+    "size_encoded": 0.0
+  },
+  "feature_maxs": {
+    "product_price": 500.0,
+    "customer_purchase_history": 100.0,
+    "review_rating": 5.0,
+    "delivery_time_days": 10.0,
+    "discount_percentage": 80.0,
+    "previous_returns": 10.0,
+    "days_since_purchase": 30.0,
+    "category_encoded": 4.0,
+    "size_encoded": 6.0
+  },
+  "return_rate": 0.16725,
+  "n_samples": 4000,
+  "feature_names": [
+    "product_price",
+    "customer_purchase_history",
+    "review_rating",
+    "delivery_time_days",
+    "discount_percentage",
+    "previous_returns",
+    "days_since_purchase",
+    "category_encoded",
+    "size_encoded"
+  ]
+}
